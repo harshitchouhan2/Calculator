@@ -1,8 +1,8 @@
-heading{
+.heading{
     font-size: 30;
     font-style: italic;
 }
 
-buttons{
+.buttons{
     display: grid;
 }
