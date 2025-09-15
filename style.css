@@ -2,3 +2,7 @@ heading{
     font-size: 30;
     font-style: italic;
 }
+
+buttons{
+    display: grid;
+}
